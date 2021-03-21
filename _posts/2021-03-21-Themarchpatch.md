@@ -6,7 +6,7 @@ tags: [March Patch]
 ---
 
 <p align="center">
-<img  src="https://imgur.com/gQhWY3d">
+<img  src="https://i.imgur.com/6qCMrc2.png">
 </p>
 
 Hello Brothers,
@@ -54,7 +54,3 @@ Team-Legion
 
 
 ### Thanks for suppport ....keep supporting.....have a great day....kthxbye
-
-Telegram  : [Link](https://t.me/legionos)
-Website    : [Link](https://legionos.org/)
-Download : [Link](https://legionos.org/download.html)
