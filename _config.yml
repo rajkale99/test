@@ -1,0 +1,45 @@
+# Site settings
+title:          Project-LegionOS
+description:    "Aosp Custom Rom"
+baseurl:        ""
+url:            "https://blog.legionos.org"
+
+# Google Analytics
+google_analytics: G-1396R4ZWHN
+
+# Author
+author:
+  name:         Project-LegionOS
+  url:          https://blog.legionos.org
+  email:        projectlegionos@gmail.com
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Excludes
+exclude: [ Gemfile ]
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+  # Disqus (Set to your disqus id)
+disqus: legionos
