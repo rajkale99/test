@@ -1,10 +1,10 @@
 pre,
 code {
-  font-family: $monospaced;
+  font-family: "Inconsolata";
 }
 
 code {
-  background-color: $grey-3;
+  background-color: #121212;
   border-radius: 3px;
   color: $code-color;
   font-size: 85%;
@@ -23,7 +23,7 @@ pre code {
 }
 
 .highlight {
-  background-color: #3d3c3c;
+  background-color: #191919;
   border-radius: 3px;
   line-height: 1.4;
   margin: 0 0 1rem;
