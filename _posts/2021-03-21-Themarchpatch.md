@@ -4,11 +4,7 @@ title: LegionOS Version - 3.7
 subtitle: Marvelous march.
 tags: [March Patch]
 ---
-
-<p align="left">
 <img src="https://imgur.com/DDQIVvx.png">
-</p>
-
 Hello Brothers,
 
 Hope everyone is enjoying their weekend. 
