@@ -5,7 +5,7 @@ subtitle: Marvelous march.
 tags: [March Patch]
 ---
 
-<p align="center">
+<p align="left">
 <img src="https://imgur.com/DDQIVvx.png">
 </p>
 
