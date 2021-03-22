@@ -3,6 +3,7 @@ layout: post
 title: LegionOS Version - 3.7
 subtitle: Marvelous march.
 tags: [March Patch]
+comments: true
 ---
 Hello Brothers,
 
