@@ -6,7 +6,7 @@ tags: [March Patch]
 ---
 
 <p align="center">
-<img  src="https://imgur.com/DDQIVvx">
+<img src="https://imgur.com/DDQIVvx.png">
 </p>
 
 Hello Brothers,
