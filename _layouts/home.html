@@ -10,7 +10,6 @@ layout: default
             <div>
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time> </div>
       <div class=catalogue-title">{{ post.title }}</div>
-    </div>
         <div class="catalogue-line"></div>
 
         <p>
@@ -20,6 +19,7 @@ layout: default
     </a>
   {% endfor %}
 </div>
+                                       </div>
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
